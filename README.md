@@ -6,6 +6,7 @@
 3. If it doesn't ask you for a username and password, dont worry about it.
 
 ###Mac
+=============
 ####Mac Prep:
 1. Open system preferences
 2. Go to security & privacy
@@ -31,6 +32,7 @@
 3. Click the lock
 
 ###Windows
+=============
 ####Windows Installation
 1. Go to https://www.postgresql.org/download/windows/
 2. Click the link “Download the Installer”
