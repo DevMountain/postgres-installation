@@ -1,4 +1,4 @@
-## postgres-installation
+## Postgres-installation
 
 ###Rules
 1. If the installation asks you to use a new name and password, write them down.
