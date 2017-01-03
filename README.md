@@ -7,7 +7,7 @@
 
 
 ##Mac
-###Mac Prep:
+###Prep:
 1. Open system preferences
 2. Go to security & privacy
 3. Go to the general tab
@@ -15,25 +15,25 @@
 5. Click the Anywhere circle.
 6. Leave window open
 
-###Mac Installation:
+###Installation:
 1. Go to https://postgresapp.com/
 2. Click the download button
 3. Move to the Applications folder
 
-###Install PGAdmin on Mac:
+###Install PGAdmin:
 1. Go to https://www.postgresql.org/ftp/pgadmin3/pgadmin4/v1.1/macos/
 2. Click pgadmin4-1.0-rc1.dmg. It will start the download.
 3. Run the download.
 4. Drag the pgAdmin.app file into your applications folder.
 
-###Mac Post Install:
+###Post Install:
 1. Go back to system preferences
 2. Click Mac App Store and Identified Developers
 3. Click the lock
 
 
 ##Windows
-###Windows Installation
+###Installation
 1. Go to https://www.postgresql.org/download/windows/
 2. Click the link “Download the Installer”
 3. Find Version 9.6.0
