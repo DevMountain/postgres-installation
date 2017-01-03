@@ -1,6 +1,4 @@
-## Postgres-installation
-
-###Rules
+##Rules
 1. If the installation asks you to use a new name and password, write them down.
 2. If it asks you to use your computer's password, remember that detail.
 3. If it doesn't ask you for a username and password, dont worry about it.
